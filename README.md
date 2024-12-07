@@ -1,1 +1,1 @@
-# JavaStrings
+# Java
